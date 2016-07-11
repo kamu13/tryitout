@@ -1,2 +1,5 @@
 line one
 line two
+
+some changes on master
+another changes
